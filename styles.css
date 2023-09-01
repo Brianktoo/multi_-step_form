@@ -1,0 +1,39 @@
+
+.main{
+    padding-top: 75px;
+    padding-bottom: 25px;
+    margin-left: 500px;
+    width: 75%;
+}
+.personal_info{
+    color: hsl(213, 96%, 18%);
+    font-size: 36px;
+
+}
+.instruction{
+    color: hsl(225, 7%, 65%);
+    padding: auto;
+    font-size: 18px;
+
+}
+.name, .email, .mobile_number{
+    color: hsl(213, 96%, 18%);
+    size: 12px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.input_area{
+    padding: 10px;
+    width: 450px;
+    border-radius: 12px;
+}
+.submit{
+    background-color: hsl(213, 96%, 18%);
+    margin-left: 375px;
+    margin-top: 50px;
+    width: 100px;
+    align-items: center;
+    padding: 10px; 
+    border-radius: 12px; 
+    color: white;    
+}
